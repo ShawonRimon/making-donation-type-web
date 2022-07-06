@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    text-align: center;
 }
 
 .heading-part {
@@ -26,13 +27,29 @@ body {
     font-size: 16px;
     color: aliceblue;
     background-color: orangered;
+    margin-top: 40px;
     padding: 10px 20px;
     border-radius: 8px;
 
 }
 
+
+.sec-2-title {
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-left: 130px;
+}
+
+.sec-2-tex {
+    margin-left: 140px;
+
+    font-size: 20px;
+}
+
 .donet-figure {
     display: flex;
+
 
 
 }
@@ -45,7 +62,7 @@ body {
     font-size: 25px;
     font-weight: 700;
     color: gray;
-    margin-left: 170px;
+    margin-left: 350px;
 }
 
 .amount2 {
@@ -103,39 +120,25 @@ body {
 }
 
 .other-donet {
-    text-align: center;
+    margin-left: 170px;
     font-size: 20px;
     color: rgb(177, 170, 170);
 }
 
 
 hr {
-    margin-left: 190px;
+    margin-left: 350px;
     margin-top: 50px;
     width: 900px;
 }
 
-#button {
-    text-decoration: none;
-    text-align: justify;
-}
 
-.sec-2-title {
-    text-align: center;
-    font-size: 40px;
-    font-weight: 700;
-    margin-top: 100px;
-}
-
-.sec-2-tex {
-    text-align: center;
-    font-size: 20px;
-}
 
 .donate-plan {
     display: flex;
     margin-top: 100px;
-    text-align: center;
+    margin-left: 100px;
+
 }
 
 .box-1 {
@@ -164,6 +167,30 @@ hr {
 .bg-color3 {
     background-color: rgb(247, 243, 192);
 }
+
+.update-section {
+    display: flex;
+    border: none;
+    width: 700px;
+    height: 30px;
+    margin-left: 700px;
+    margin-top: 30px;
+}
+
+
+.update-title {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.update-text {
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+
+
+
 
 .footer-part {
     width: 100%;
