@@ -1,0 +1,32 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.heading-part {
+
+    text-align: center;
+    color: aliceblue;
+    padding-top: 100px;
+    background-image: url(images/heading.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+    background-size: cover;
+    margin-bottom: 30px;
+
+}
+
+.font-size {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.link-button {
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+    color: aliceblue;
+    background-color: orangered;
+    padding: 10px 20px;
+    border-radius: 8px;
+
+}
