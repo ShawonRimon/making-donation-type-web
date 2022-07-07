@@ -168,13 +168,50 @@ hr {
     background-color: rgb(247, 243, 192);
 }
 
+.section-4 {
+    display: flex;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.section-5 {
+    display: flex;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.section4-title {
+    text-align: left;
+    font-size: 40px;
+    margin-left: 30px;
+}
+
+.sec4-img {
+    margin-left: 70px;
+    margin-bottom: 100px;
+
+}
+
+.section5-title {
+    text-align: left;
+    font-size: 40px;
+    margin-left: 60px;
+}
+
+.sec5-img {
+    margin-left: 70px;
+    margin-bottom: 100px;
+
+}
+
 .update-section {
     display: flex;
-    border: none;
+    border: 2px solid rgb(241, 215, 159);
+    border-width: 50px;
     width: 700px;
-    height: 30px;
-    margin-left: 700px;
-    margin-top: 30px;
+    height: 40px;
+    margin-left: 470px;
+    margin-top: 200px;
 }
 
 
